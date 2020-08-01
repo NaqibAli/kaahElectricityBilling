@@ -17,15 +17,15 @@
                 <div class="card-body row rounded justify-content-around align-items-center">
                     <img src="../images/bg-01.jpg" class="user" alt="" />
                     <h5>Name : A/wakil Adan Nur</h5>
-                    <h5>ID : C117147</h5>
+                    <h5>ID : C117099</h5>
                 </div>
                
             </div>
             <div class="card shadow">
                 <div class="card-body rounded row justify-content-around align-items-center">
                     <img src="../images/bg-01.jpg" class="user" alt="" />
-                    <h5>Name : Abdirahman Ali Adan</h5>
-                    <h5>ID : C117147</h5>
+                    <h5>Name : Abdirahman mohamed Addan</h5>
+                    <h5>ID : C117143</h5>
                 </div>
                
             </div>
@@ -33,15 +33,15 @@
                 <div class="card-body row rounded justify-content-around align-items-center">
                     <img src="../images/bg-01.jpg" class="user" alt="" />
                     <h5>Name : A/aziz mohamed sharif</h5>
-                    <h5>ID : C117147</h5>
+                    <h5>ID : C117042</h5>
                 </div>
                
             </div>
             <div class="card shadow">
                 <div class="card-body row rounded justify-content-around align-items-center">
                     <img src="../images/bg-01.jpg" class="user" alt="" />
-                    <h5>Name : Sakarie Ahmed Hashi</h5>
-                    <h5>ID : C117147</h5>
+                    <h5>Name : zakarie Ahmed Hashi</h5>
+                    <h5>ID : C117260</h5>
                 </div>
                
             </div>
