@@ -1,0 +1,1327 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Naqib Ali\Desktop\Kaah E-billing</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Admin/Main.Master">
+      <publishTime>07/31/2020 18:02:43</publishTime>
+    </File>
+    <File Include="bin/E-billing sytem full.dll">
+      <publishTime>07/31/2020 20:08:32</publishTime>
+    </File>
+    <File Include="bin/E-billing sytem full.pdb">
+      <publishTime>07/31/2020 20:08:32</publishTime>
+    </File>
+    <File Include="bin/E-billing sytem full.xml">
+      <publishTime>07/31/2020 20:08:32</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.css">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.css.map">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.min.css">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-grid.min.css.map">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.css">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.css.map">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.min.css">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap-reboot.min.css.map">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap.css.map">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="Content/bootstrap.min.css">
+      <publishTime>07/26/2020 12:29:47</publishTime>
+    </File>
+    <File Include="Content/style.css">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css.map">
+      <publishTime>07/21/2020 02:23:24</publishTime>
+    </File>
+    <File Include="css/help.css">
+      <publishTime>07/22/2020 02:43:52</publishTime>
+    </File>
+    <File Include="css/main.css">
+      <publishTime>07/21/2020 01:22:08</publishTime>
+    </File>
+    <File Include="css/style.css">
+      <publishTime>07/21/2020 00:57:06</publishTime>
+    </File>
+    <File Include="css/style.css.map">
+      <publishTime>07/21/2020 00:57:06</publishTime>
+    </File>
+    <File Include="css/util.css">
+      <publishTime>07/21/2020 00:57:06</publishTime>
+    </File>
+    <File Include="dist/css/theme.css">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="dist/css/theme.css.map">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="dist/css/theme.min.css">
+      <publishTime>07/26/2020 14:04:03</publishTime>
+    </File>
+    <File Include="dist/css/theme.min.css.map">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="dist/img/.gitignore">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="dist/img/brand-white.svg">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="dist/img/brand.svg">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="dist/img/down-arrow.svg">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="dist/js/theme.js">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="dist/js/theme.min.js">
+      <publishTime>07/20/2020 02:17:28</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/css/font-awesome.css">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/fonts/FontAwesome.otf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/HELP-US-OUT.txt">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/animated.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/bordered-pulled.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/core.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/fixed-width.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/font-awesome.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/icons.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/larger.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/list.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/mixins.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/path.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/rotated-flipped.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/screen-reader.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/stacked.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/less/variables.less">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/font-awesome.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_animated.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_core.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_fixed-width.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_icons.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_larger.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_list.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_mixins.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_path.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_screen-reader.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_stacked.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/font-awesome-4.7.0/scss/_variables.scss">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/icon-font.min.css">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/Linearicons-Free-v1.0.0/WebFont/Linearicons-Free.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/material-icon/css/material-design-iconic-font.css">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/material-icon/css/material-design-iconic-font.min.css">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/material-icon/fonts/Material-Design-Iconic-Font.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/material-icon/fonts/Material-Design-Iconic-Font.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/material-icon/fonts/Material-Design-Iconic-Font.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/material-icon/fonts/Material-Design-Iconic-Font.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/material-icon/fonts/Material-Design-Iconic-Font.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Black.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-BlackItalic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Bold.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-BoldItalic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ExtraBold.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ExtraBoldItalic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ExtraLight.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ExtraLightItalic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Italic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Light.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-LightItalic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Medium.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-MediumItalic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Regular.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-SemiBold.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-SemiBoldItalic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-Thin.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/Poppins-ThinItalic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300italic.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300italic.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300italic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300italic.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-300italic.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500italic.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500italic.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500italic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500italic.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-500italic.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-600.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-600.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-600.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-600.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-600.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700italic.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700italic.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700italic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700italic.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-700italic.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800italic.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800italic.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800italic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800italic.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-800italic.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-900.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-900.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-900.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-900.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-900.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-italic.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-italic.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-italic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-italic.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-italic.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-regular.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-regular.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-regular.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-regular.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/poppins-v5-latin-regular.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700italic.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700italic.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700italic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700italic.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-700italic.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-italic.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-italic.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-italic.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-italic.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-italic.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-regular.eot">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-regular.svg">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-regular.ttf">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-regular.woff">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="fonts/poppins/roboto-condensed-v16-latin-regular.woff2">
+      <publishTime>07/21/2020 00:57:10</publishTime>
+    </File>
+    <File Include="image/logo.png">
+      <publishTime>07/20/2020 04:38:52</publishTime>
+    </File>
+    <File Include="images/bg-01.jpg">
+      <publishTime>07/21/2020 00:57:12</publishTime>
+    </File>
+    <File Include="images/icons/favicon.ico">
+      <publishTime>07/21/2020 00:57:12</publishTime>
+    </File>
+    <File Include="images/icons/map-marker.png">
+      <publishTime>07/21/2020 00:57:12</publishTime>
+    </File>
+    <File Include="images/signin-image.jpg">
+      <publishTime>07/21/2020 00:57:12</publishTime>
+    </File>
+    <File Include="images/signup-image.jpg">
+      <publishTime>07/21/2020 00:57:12</publishTime>
+    </File>
+    <File Include="index.html">
+      <publishTime>07/20/2020 03:53:56</publishTime>
+    </File>
+    <File Include="js/alerts.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/app.js">
+      <publishTime>07/27/2020 10:38:40</publishTime>
+    </File>
+    <File Include="js/calendar.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/carousel.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/chart-amcharts.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/chart-chartist.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/chart-flot.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/chart-knob.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/charts.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/datatables.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/form-advanced.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/form-components.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/form-picker.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/forms.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/layouts.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/main.js">
+      <publishTime>07/21/2020 00:57:16</publishTime>
+    </File>
+    <File Include="js/map-custom.js">
+      <publishTime>07/21/2020 00:57:16</publishTime>
+    </File>
+    <File Include="js/range-slider.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/rating.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/session-time-out.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/tables.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/taskboard.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/widget-chart.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/widget-data.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/widget-statistic.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="js/widgets.js">
+      <publishTime>07/20/2020 02:14:20</publishTime>
+    </File>
+    <File Include="Page/Blocks.aspx">
+      <publishTime>07/31/2020 18:07:39</publishTime>
+    </File>
+    <File Include="Page/Create Accoun.aspx">
+      <publishTime>07/26/2020 14:04:03</publishTime>
+    </File>
+    <File Include="Page/Customers.aspx">
+      <publishTime>07/27/2020 16:00:24</publishTime>
+    </File>
+    <File Include="Page/Dashboard.aspx">
+      <publishTime>07/20/2020 10:26:26</publishTime>
+    </File>
+    <File Include="Page/Employees.aspx">
+      <publishTime>07/27/2020 16:51:34</publishTime>
+    </File>
+    <File Include="Page/Help.aspx">
+      <publishTime>07/21/2020 23:57:16</publishTime>
+    </File>
+    <File Include="Page/Login.aspx">
+      <publishTime>07/26/2020 10:03:01</publishTime>
+    </File>
+    <File Include="Page/Payment.aspx">
+      <publishTime>07/31/2020 17:03:04</publishTime>
+    </File>
+    <File Include="Page/Sign Customers.aspx">
+      <publishTime>07/27/2020 13:27:43</publishTime>
+    </File>
+    <File Include="Page/Team.aspx">
+      <publishTime>07/31/2020 20:07:41</publishTime>
+    </File>
+    <File Include="plugins/amcharts/amcharts.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/animate.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/funnel.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/gantt.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/gauge.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/images/dragIconRoundBig.png">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/images/dragIconRoundBig.svg">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/images/lens.png">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/images/lens.svg">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/pie.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/radar.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/serial.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/themes/black.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/themes/chalk.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/themes/dark.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/themes/light.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/themes/patterns.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/amcharts/xy.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ammap3/ammap/ammap.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ammap3/ammap/ammap.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ammap3/ammap/ammap_amcharts_extension.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ammap3/ammap/maps/js/usaLow.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap-slider/dist/bootstrap-slider.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap-slider/dist/css/bootstrap-slider.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js.map">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap/dist/css/bootstrap.min.css">
+      <publishTime>07/24/2020 00:19:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap/dist/css/bootstrap.min.css.map">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap/dist/js/bootstrap.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/bootstrap/dist/js/bootstrap.min.js.map">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/c3/c3.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/c3/c3.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/chartist/dist/chartist.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/chartist/dist/chartist.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/chartist/dist/chartist.min.js.map">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/d3/dist/d3.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/d3/dist/d3.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/d3/dist/d3.node.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/d3/dist/package.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/datatables.net-bs4/css/dataTables.bootstrap4.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/datatables.net-bs4/js/dataTables.bootstrap4.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/datatables.net-responsive-bs4/css/responsive.bootstrap4.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/datatables.net-responsive-bs4/js/responsive.bootstrap4.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/datatables.net-responsive/js/dataTables.responsive.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/datatables.net/js/jquery.dataTables.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/datedropper/datedropper.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/datedropper/datedropper.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/flot-charts/curvedLines.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/flot-charts/jquery.flot.categories.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/flot-charts/jquery.flot.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/flot-charts/jquery.flot.pie.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/flot-charts/jquery.flot.tooltip.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/css/all.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-brands-400.eot">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-brands-400.svg">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-brands-400.ttf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-brands-400.woff">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-brands-400.woff2">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-regular-400.eot">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-regular-400.svg">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-regular-400.ttf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-regular-400.woff">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-regular-400.woff2">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-solid-900.eot">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-solid-900.svg">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-solid-900.ttf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-solid-900.woff">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fontawesome-free/webfonts/fa-solid-900.woff2">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fullcalendar/dist/fullcalendar.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/fullcalendar/dist/fullcalendar.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/icon-kit/dist/css/iconkit.min.css">
+      <publishTime>07/20/2020 05:05:12</publishTime>
+    </File>
+    <File Include="plugins/icon-kit/dist/fonts/iconkit.eot">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/icon-kit/dist/fonts/iconkit.otf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/icon-kit/dist/fonts/iconkit.svg">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/icon-kit/dist/fonts/iconkit.ttf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/icon-kit/dist/fonts/iconkit.woff">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/icon-kit/dist/fonts/iconkit.woff2">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ionicons/dist/css/ionicons.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ionicons/dist/fonts/ionicons.eot">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ionicons/dist/fonts/ionicons.svg">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ionicons/dist/fonts/ionicons.ttf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ionicons/dist/fonts/ionicons.woff">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/ionicons/dist/fonts/ionicons.woff2">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/jquery.barrating.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/jquery.barrating.min.js.map">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/bars-1to10.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/bars-horizontal.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/bars-movie.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/bars-pill.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/bars-reversed.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/bars-square.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/bootstrap-stars.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/css-stars.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/fontawesome-stars-o.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-bar-rating/dist/themes/fontawesome-stars.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-knob/dist/jquery.knob.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-minicolors/jquery.minicolors.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-minicolors/jquery.minicolors.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-minicolors/jquery.minicolors.png">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-toast-plugin/dist/jquery.toast.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery-toast-plugin/dist/jquery.toast.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jquery.repeater/jquery.repeater.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jvectormap/jquery-jvectormap.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/jvectormap/jquery-jvectormap.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/mohithg-switchery/dist/switchery.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/mohithg-switchery/dist/switchery.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/moment/moment.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/nestable/jquery.nestable.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/owl.carousel/dist/assets/ajax-loader.gif">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/owl.carousel/dist/assets/owl.carousel.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/owl.carousel/dist/assets/owl.theme.default.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/owl.carousel/dist/assets/owl.video.play.png">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/owl.carousel/dist/owl.carousel.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/perfect-scrollbar/css/perfect-scrollbar.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/perfect-scrollbar/dist/perfect-scrollbar.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/popper.js/dist/umd/popper.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/popper.js/dist/umd/popper.min.js.map">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/screenfull/dist/screenfull.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/select2/dist/css/select2.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/select2/dist/js/select2.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/summernote/.editorconfig">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/summernote/.eslintrc">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/summernote/dist/font/summernote.eot">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/summernote/dist/font/summernote.ttf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/summernote/dist/font/summernote.woff">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/summernote/dist/summernote-bs4.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/summernote/dist/summernote-bs4.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/sweetalert/dist/sweetalert.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/tempusdominus-bootstrap-4/build/css/tempusdominus-bootstrap-4.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/tempusdominus-bootstrap-4/build/js/tempusdominus-bootstrap-4.min.js">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/weather-icons/css/weather-icons.min.css">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/weather-icons/font/weathericons-regular-webfont.eot">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/weather-icons/font/weathericons-regular-webfont.svg">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/weather-icons/font/weathericons-regular-webfont.ttf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/weather-icons/font/weathericons-regular-webfont.woff">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="plugins/weather-icons/font/WeatherIcons-Regular.otf">
+      <publishTime>07/20/2020 02:16:58</publishTime>
+    </File>
+    <File Include="scss/common/extend.scss">
+      <publishTime>07/21/2020 00:58:02</publishTime>
+    </File>
+    <File Include="scss/common/fonts.scss">
+      <publishTime>07/21/2020 00:58:02</publishTime>
+    </File>
+    <File Include="scss/common/global.scss">
+      <publishTime>07/21/2020 00:58:02</publishTime>
+    </File>
+    <File Include="scss/common/minxi.scss">
+      <publishTime>07/21/2020 00:58:02</publishTime>
+    </File>
+    <File Include="scss/common/variables.scss">
+      <publishTime>07/21/2020 00:58:02</publishTime>
+    </File>
+    <File Include="scss/layouts/main.scss">
+      <publishTime>07/21/2020 00:58:02</publishTime>
+    </File>
+    <File Include="scss/layouts/responsive.scss">
+      <publishTime>07/21/2020 00:58:02</publishTime>
+    </File>
+    <File Include="scss/style.scss">
+      <publishTime>07/21/2020 00:58:02</publishTime>
+    </File>
+    <File Include="src/img/.gitignore">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/img/brand-white.svg">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/img/brand.svg">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/img/down-arrow.svg">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/img/logo.svg">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/js/theme.js">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/js/theme.min.js">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/js/vendor/jquery-3.3.1.min.js">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/js/vendor/jquery-3.3.1.slim.min.js">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/js/vendor/modernizr-2.8.3.min.js">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/theme.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_alert.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_auth.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_badges.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_buttons.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_calendar.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_cards.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_carousel.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_forms.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_layout.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_main.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_mixins.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_modal.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_navigation.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_range-slider.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_rating.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_settings.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_tables.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="src/scss/_widgets.scss">
+      <publishTime>07/20/2020 02:14:10</publishTime>
+    </File>
+    <File Include="tile-wide.png">
+      <publishTime>07/20/2020 02:19:40</publishTime>
+    </File>
+    <File Include="tile.png">
+      <publishTime>07/20/2020 02:19:38</publishTime>
+    </File>
+    <File Include="vendor/animate/animate.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/animsition/css/animsition.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/animsition/css/animsition.min.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/animsition/js/animsition.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/animsition/js/animsition.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.css.map">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.min.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-grid.min.css.map">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.css.map">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.min.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap-reboot.min.css.map">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.css.map">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/css/bootstrap.min.css.map">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/bootstrap.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/popper.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/popper.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/bootstrap/js/tooltip.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/countdowntime/countdowntime.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/css-hamburgers/hamburgers.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/css-hamburgers/hamburgers.min.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/daterangepicker/daterangepicker.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/daterangepicker/daterangepicker.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/daterangepicker/moment.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/daterangepicker/moment.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/jquery-ui.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/jquery.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/jquery/jquery-3.2.1.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/perfect-scrollbar/perfect-scrollbar.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/perfect-scrollbar/perfect-scrollbar.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/select2/select2.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/select2/select2.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/select2/select2.min.css">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="vendor/select2/select2.min.js">
+      <publishTime>07/21/2020 00:58:06</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/31/2020 20:08:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,11 @@
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\bin\E-billing sytem full.dll.config
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\bin\E-billing sytem full.dll
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\bin\E-billing sytem full.pdb
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\bin\E-billing sytem full.xml
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\obj\Release\E-billing sytem full.vbprojAssemblyReference.cache
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\obj\Release\E_billing_sytem_full.Resources.resources
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\obj\Release\E-billing sytem full.vbproj.GenerateResource.cache
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\obj\Release\E-billing sytem full.vbproj.CoreCompileInputs.cache
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\obj\Release\E-billing sytem full.dll
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\obj\Release\E-billing sytem full.xml
+C:\Users\Naqib Ali\Desktop\Project Asp\E-billing sytem full\E-billing sytem full\obj\Release\E-billing sytem full.pdb

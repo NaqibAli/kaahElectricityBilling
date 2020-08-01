@@ -1,0 +1,13 @@
+﻿.navbar-brand img {
+    padding-left: 40px !important; 
+    height :30px;
+
+}
+
+.nav-link {
+    color: blueviolet !important;
+ 
+}
+.nav-link:hover {
+    color: #ff6a00 !important;
+}
